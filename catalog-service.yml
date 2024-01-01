@@ -1,2 +1,2 @@
 polar:
-  greeting: "Welcome from default catalog-service.yml"
+  greeting: "Welcome from [DEFAULT] catalog-service.yml"
